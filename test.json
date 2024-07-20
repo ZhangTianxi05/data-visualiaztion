@@ -1,0 +1,16 @@
+[
+  {
+    "ShorterBarHeight": "18",
+    "TallerBarHeight": "45",
+    "InferenceResult": "0.09988",
+    "GroundTruth": "0.4",
+    "BarHeights": "4; 17; 18; 45; 31; 19; 24; 13"
+  },
+  {
+    "ShorterBarHeight": "7",
+    "TallerBarHeight": "73",
+    "InferenceResult": "0.09116",
+    "GroundTruth": "0.09589",
+    "BarHeights": "7; 9; 7; 73; 11; 16; 26; 6"
+  }
+]
